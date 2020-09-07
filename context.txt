@@ -1,0 +1,32 @@
+----Comentar----
+#
+"""  """
+
+
+----Inicio do código---
+#-*- CODING UTF-8 -*-
+
+
+TRY:
+  Codigo
+EXCEPT  EXCEPTION as E:
+  Codigo
+
+-----Funções------
+DEF nomeFunção(...):
+  Codigo
+
+
+----Não utilizar ; ao final do código-----
+
+-----variávle---
+str(____)
+int(____)
+float(_____)
+
+
+----Potência----
+pow(2,variávle)
+b=b**2
+----Raiz Quadrada----
+sqrt(____)
